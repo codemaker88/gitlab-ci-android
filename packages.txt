@@ -5,3 +5,5 @@ extras;google;m2repository
 extras;google;google_play_services
 extras;m2repository;com;android;support;constraint;constraint-layout;1.0.2
 platforms;android-31
+cmake;3.10.2.4988404
+ndk;21.4.7075529

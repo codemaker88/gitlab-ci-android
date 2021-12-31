@@ -1,3 +1,12 @@
+# gitlab-ci-android-ndk
+
+- add apt-get install file
+- add sdkmanager install ndk & cmake
+
+docker hub : [codemaker88/gitlab-ci-android-ndk:1.0.0](https://hub.docker.com/r/codemaker88/gitlab-ci-android-ndk)
+
+forked from [jangrewe/gitlab-ci-android](https://github.com/jangrewe/gitlab-ci-android)
+
 # gitlab-ci-android
 This Docker image contains the Android SDK and most common packages necessary for building Android apps in a CI tool like GitLab CI. Make sure your CI environment's caching works as expected, this greatly improves the build time, especially if you use multiple build jobs.
 
